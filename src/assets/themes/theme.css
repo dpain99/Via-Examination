@@ -1,0 +1,91 @@
+:root {
+  --primary-color-500: #FDBA4D;
+  --primary-color-600: #ECAD48;
+  --primary-color-700: #DCA245;
+  --primary-color-800: #D29B42;
+  --secondary-color: #6c757d;
+  --white-color: #FFFFFF;
+  --neutral-color-800: #191D23;
+  --neutral-color-900: #0D0F11;
+  --neutral-color-700: #323A46;
+  --neutral-color-100: #E7EAEE;
+  --neutral-color-50: #F7F8F9;
+  --neutral-color-400: #A0ABBB;
+  --tertiary-color-300: #fed89c;
+  --tertiary-color-100: #ffefd7;
+  --success-color-500: #10B981;
+  --success-color-600: #059669;
+  --warning-color-500: #F59E0B;
+  --error-color-600: #dc2626;
+  --error-color-500: #ef4444;
+
+}
+
+.label-h2 {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--white-color);
+}
+
+.heading-4 {
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--primary-color-700);
+}
+
+.h4-semi-bold {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: var(--primary-color-700);
+}
+
+.heading-6-bold {
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+.p3-regular {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--white-color);
+}
+
+.p2-semi-bold {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--white-color);
+}
+
+.p2-regular {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.h4-extra-bold {
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 34px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: var(--success-color-600);
+}

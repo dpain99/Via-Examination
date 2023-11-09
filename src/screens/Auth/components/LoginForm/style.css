@@ -1,0 +1,17 @@
+.login-card {
+    background-color: white;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    justify-content: center;
+    margin: 16px 0;
+    border-radius: 4px;
+    width: 42vw;
+}
+
+.forgot-password {
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+}

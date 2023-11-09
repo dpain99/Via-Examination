@@ -1,0 +1,19 @@
+.slick-prev,
+.slick-next {
+    color: black;
+    width: 30px;
+    height: 30px;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+    color: black
+}
+
+.slider-items {
+    height: 100px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}

@@ -1,0 +1,35 @@
+.register-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+}
+
+.row-1 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 100%;
+}
+
+.row-2 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.sub-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-link {
+    color: var(--primary-color-500);
+    cursor: pointer;
+}
